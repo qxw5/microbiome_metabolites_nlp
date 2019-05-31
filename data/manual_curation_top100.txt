@@ -1,0 +1,102 @@
+Metabolite	IN_HMDB	 Evidence (PMID, HMDB, No)
+ellagic acid	0	pmid28616977
+butyric acid	1	HMDB
+phenol-formaldehyde, cross-linked, tetraethylenepentamine activated	0	NO
+trimethylamine n-oxide	1	HMDB
+chymosin preparation, escherichia coli k-12	0	NO
+propionic acid	1	HMDB
+urolithin b	0	pmid19716282
+indoxyl	0	pmid30029499
+trans-aconitic acid	0	NO
+urolithin c	0	pmid19716282
+trimethylamine	1	HMDB
+p-cresol sulfate	1	HMDB
+cholic acid	0	pmid26531326
+ortho-hydroxyphenylacetic acid	1	HMDB
+l-lactic acid	0	pmid30189365
+indoxyl sulfate	1	HMDB
+gonyautoxin v	0	NO
+acetic acid	1	HMDB
+inulobiose	0	NO
+urolithin d	0	pmid19716282
+lps with o-antigen	1	HMDB
+d-alanine	1	HMDB
+d-glucose	0	pmid15864408
+sulfide	0	NO
+3-(3-hydroxyphenyl)propanoic acid	1	HMDB
+equol	0	pmid19716282
+fucosyllactose	0	NO
+muricholic acid	0	pmid28279860
+p-cresol	1	HMDB
+enterolactone	0	pmid15864408
+sulfate	0	pmid23183532
+dihydrodaidzein	0	NO
+enterodiol	0	pmid19716282
+3-hydroxyphenylacetic acid	1	HMDB
+hippuric acid	1	HMDB
+alpha-n-phenylacetyl-l-glutamine	1	HMDB
+deoxycholic acid	0	pmid26531326
+nitrogen	0	pmid23183532
+ammonia	0	pmid23183532
+lactulose	0	NO
+3,4-dihydroxyhydrocinnamic acid	1	HMDB
+methane	1	HMDB
+lead	0	NO
+o-desmethylangolensin	0	NO
+3-methylellagic acid 2-(4-galactosylglucoside)	0	NO
+sucrose	0	NO
+lactaldehyde	0	NO
+d-tryptophan	0	NO
+levan	0	NO
+choline	0	NO
+hydrogen	1	HMDB
+2-acetolactate 	0	NO
+di-2-propenyl disulfide, 9ci	0	NO
+l-carnitine	0	NO
+butyryl-coa	0	NO
+cholesterol	0	pmid30189365
+phenylacetic acid	1	HMDB
+valeric acid	0	pmid30154719
+isovaleric acid	0	pmid27434092
+maltodextrin	0	NO
+butylparaben	0	NO
+rifaximin	0	NO
+pyrrole	0	PMID 29889418
+lithocholic acid	0	PMID29654837
+neolactotetraose	0	NO
+pectin	0	NO
+catechin	0	NO
+coenzyme a	0	NO
+l-kynurenine	0	PMID23843452
+phenyllactic acid	1	HMDB
+hydrogen sulfide	1	HMDB
+omeprazole	0	NO
+alpha-amyrin acetate	0	NO
+isobutyric acid	1	HMDB
+retinoyl b-glucuronide	0	NO
+d-fructose	0	pmid30189365
+endo-1,4-beta-xylanase	0	NO
+alpha-lactose	0	NO
+6'-hydroxy-o-desmethylangolensin	0	NO
+daidzein	0	NO
+monic acid	0	NO
+pyrimethamine	0	NO
+betaine	0	pmid28663251
+3-hydroxypropanal	1	HMDB
+3-fucosyllactose	0	NO
+tg(22:6(4z,7z,10z,13z,16z,19z)/o-18:0/22:6(4z,7z,10z,13z,16z,19z))	0	NO
+ginsenoside rb1	0	NO
+vanillin 4-sulfate	0	PMID24503197
+genistein 5-o-glucuronide	0	NO
+3-phenylpropyl glucosinolate	0	PMID26156396
+2-pentendioate	0	NO
+3-hydroxyhippuric acid	1	HMDB
+formic acid	1	HMDB
+lacto-n-biose i	0	PMID 18469123
+trichloroethylene	0	NO
+trans-ferulic acid	1	HMDB
+indolelactic acid	0	pmid29440368
+9-oxoode	0	NO	
+glutaryl-coa	0	NO	
+dihydrogenistein	0	pmid28728453	
+
